@@ -1,0 +1,48 @@
+
+.imagem__carrossel--um{
+  height: 400px;
+  object-fit: cover;
+  object-position: 0 2%;
+}
+.imagem__carrossel--dois{
+  height: 400px;
+  object-fit: cover;
+  object-position: 0 40%;
+}
+
+.fonte__titulo{
+  font-family: 'Poppins',sans-serif;
+  font-weight: bold;
+}
+.cor__titulo{
+  color: rgb(20, 12, 71);
+}
+.cor__botao{
+  border: none;
+  background-color: rgb(20, 12, 71);
+  color: #fdfdfd;
+}
+.cor__botao:hover{
+  background-color: rgb(5, 2, 26);
+  color: #fdfdfd;
+}
+
+
+.cor__borda{
+  border-color: rgb(20, 12, 71);
+}
+.card__tamanho{
+
+  box-sizing: border-box;
+  max-width: 18rem;
+  max-height: 30rem;
+}
+.card__tamanho--exp{
+  box-sizing: border-box;
+  max-width: 30rem;
+}
+.card__tamanho--imagem{
+  box-sizing: border-box;
+  object-fit: cover;
+  height: 200px;
+}
