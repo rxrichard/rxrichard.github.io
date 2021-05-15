@@ -48,6 +48,9 @@
   max-width: 30rem;
   object-fit: cover;
 }
+.card__tamanho--exp-total{
+  height: 478px;
+}
 .card__tamanho--imagem{
   box-sizing: border-box;
   object-fit: cover;
