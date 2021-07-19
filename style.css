@@ -463,6 +463,9 @@ nav.show .icon-close {
     left: -2.5rem;
     color: var(--base-color);
 }
+#testimonials blockquote p #igor{
+    font-size: 1.4rem
+}
 
 #testimonials cite {
     display: flex;
@@ -689,8 +692,13 @@ footer .social-media i {
         margin-right: auto;
     }
     #testimonials blockquote p {
-        height: 14rem;
+        height: 16rem;
     }
+    
+    #testimonials blockquote p #igor{
+    font-size: 1.2rem
+}
+
     /*CONTACT*/
     #contact .container {
         align-items: center;
